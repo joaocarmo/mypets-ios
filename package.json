@@ -107,7 +107,7 @@
     "base-64": "^1.0.0",
     "dayjs": "^1.10.4",
     "i18n-js": "^3.7.1",
-    "immer": "^9.0.0",
+    "immer": "^9.0.6",
     "libphonenumber-js": "^1.9.14",
     "lodash.isempty": "^4.4.0",
     "lodash.memoize": "^4.1.2",
