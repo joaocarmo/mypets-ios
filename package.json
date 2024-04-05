@@ -132,7 +132,7 @@
     "react-native-gesture-handler": "^2.10.1",
     "react-native-get-random-values": "^1.9.0",
     "react-native-image-crop-picker": "^0.38.1",
-    "react-native-localize": "^2.2.6",
+    "react-native-localize": "^3.1.0",
     "react-native-logs": "^5.0.1",
     "react-native-maps": "^1.7.1",
     "react-native-popup-menu": "^0.16.1",
