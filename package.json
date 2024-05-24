@@ -157,7 +157,7 @@
     "@firebase/rules-unit-testing": "^2.0.7",
     "@react-native-community/eslint-config": "^3.2.0",
     "@redux-devtools/cli": "^1.0.6",
-    "@testing-library/react-native": "^10.1.1",
+    "@testing-library/react-native": "^12.5.1",
     "@tsconfig/react-native": "^2.0.3",
     "@types/async-retry": "^1.4.5",
     "@types/base-64": "^1.0.0",
